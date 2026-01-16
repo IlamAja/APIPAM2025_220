@@ -1,6 +1,6 @@
 # APIPAM2025_220
 
-# Backend Integration (Firebase Serverless)
+# Backend Integration (Firebase)
 Proyek ini berbasis Firebase. Jadi, secara teknis saya tidak membangun REST API manual menggunakan framework seperti Express atau Laravel, karena komunikasi data langsung ditangani oleh Firebase SDK di sisi aplikasi mobile.
 
 Alasan penggunaan Firebase:
